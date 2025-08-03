@@ -1,0 +1,11 @@
+{
+  "name": "greenaura-plant-api",
+  "version": "1.0.0",
+  "description": "REST API for detailed plant care data using JSON Server.",
+  "scripts": {
+    "start": "json-server --watch db.json --port 8080"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
