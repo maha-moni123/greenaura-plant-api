@@ -25,6 +25,8 @@ This is a **read-only REST API** powered by JSON Server.
 ### `GET /plants`
 
 Returns all available plant data in JSON format.
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://mahamoni625-3712177.postman.co/workspace/Maha-Moni's-Workspace~42e261d9-392c-4309-8c6a-f6a3bb0f0e8b/collection/47284278-c5054992-5c3f-47ad-8689-34e3127ce802?action=share&creator=47284278)
+
 
 
 ---
